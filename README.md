@@ -1,9 +1,9 @@
-#Çalışan Yönetim Sistemi (Java OOP)
+# Çalışan Yönetim Sistemi (Java OOP)
 
 Bu proje, Java’da OOP (Nesne Yönelimli Programlama) konularını pekiştirmek için geliştirdiğim basit bir çalışan yönetim uygulamasıdır.
 Amaç; sınıflar arası ilişkiyi, kalıtımı ve temel OOP yapısını küçük bir senaryo üzerinde görmek.
 
-Genel Bakış
+## Genel Bakış
 
 Projede üç farklı sınıf bulunuyor:
 
