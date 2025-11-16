@@ -7,13 +7,13 @@ Amaç; sınıflar arası ilişkiyi, kalıtımı ve temel OOP yapısını küçü
 
 Projede üç farklı sınıf bulunuyor:
 
-Calisan
+### Calisan
 
 Temel sınıf
 
 Ad, soyad, maaş gibi özellikler içerir
 
-Yazilimci
+### Yazilimci
 
 Calisan sınıfından türeyen alt sınıf
 
@@ -21,7 +21,7 @@ Ek olarak bildiği programlama dillerini tutar
 
 Basit bir örnek olarak “format atma” işlemi içerir
 
-Yonetici
+### Yonetici
 
 Calisan sınıfından türeyen alt sınıf
 
@@ -31,7 +31,7 @@ Sorumlu olduğu kişi sayısı bulunur
 
 Konsol üzerinde çalışan menüyle kullanıcı, bu iki çalışan türü arasında geçiş yaparak işlem gerçekleştirebilir.
 
-Uygulamada Kullanılan OOP Mantığı
+## Uygulamada Kullanılan OOP Mantığı
 
 Inheritance: Alt sınıflar temel sınıftan türetilmiştir
 
@@ -43,14 +43,14 @@ Metot Kullanımı: Alt sınıfların kendine ait fonksiyonları vardır
 
 Bu yapı sayesinde OOP’nin temel prensipleri pratik bir şekilde uygulanmış oldu.
 
-Proje Yapısı
+## Proje Yapısı
 src/
  ├─ Calisan.java
  ├─ Yazilimci.java
  ├─ Yonetici.java
  └─ Main.java
 
-Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 
 Projeyi indirin veya klonlayın
 
@@ -58,7 +58,7 @@ Main.java dosyasını çalıştırın
 
 Konsolda çıkan menü üzerinden işlemleri seçin
 
-Amaç ve Notlar
+## Amaç ve Notlar
 
 Bu proje tamamen OOP mantığını pekiştirmek için hazırlanmıştır.
 İlerleyen zamanlarda daha gelişmiş bir sürüm eklemeyi planlıyorum (örneğin dosya kaydı, ek çalışan türleri, farklı menüler vb.)
